@@ -4,7 +4,7 @@ A Rest Flutter App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter Rest application.
+This project is a starting point for a Flutter Rest application from https://dummyjson.com/products.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
